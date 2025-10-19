@@ -7,8 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1yYALWN5y_Ywe_KNj55WcZBCtxMNgenvt
 """
 
-pip install streamlit transformers torch sentencepiece gtts SpeechRecognition openai-whisper huggingface-hub
-
 import streamlit as st
 from transformers import MarianMTModel, MarianTokenizer
 from huggingface_hub import InferenceClient
