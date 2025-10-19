@@ -8,7 +8,6 @@ Original file is located at
 """
 
 import streamlit as st
-from huggingface_hub import InferenceClient
 from gtts import gTTS
 import whisper
 import os
