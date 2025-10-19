@@ -8,7 +8,6 @@ Original file is located at
 """
 
 import streamlit as st
-from transformers import MarianMTModel, MarianTokenizer
 from huggingface_hub import InferenceClient
 from gtts import gTTS
 import whisper
