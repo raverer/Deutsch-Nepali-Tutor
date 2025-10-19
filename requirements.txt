@@ -1,7 +1,6 @@
-streamlit==1.39.0
-torch==2.3.0
-transformers==4.44.0
-sentencepiece==0.2.0
-gtts==2.5.3
-soundfile==0.12.1
-accelerate==0.33.0
+streamlit
+transformers
+torch==2.5.1
+sentencepiece
+gtts
+soundfile
