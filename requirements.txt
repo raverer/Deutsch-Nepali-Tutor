@@ -1,6 +1,6 @@
-streamlit
-transformers
-torch==2.5.1
+streamlit==1.38.0
+transformers==4.42.3
+torch==2.2.2
 sentencepiece
 gtts
 soundfile
