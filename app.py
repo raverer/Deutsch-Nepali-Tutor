@@ -12,6 +12,7 @@ Original file is located at
 
 import streamlit as st
 from transformers import AutoTokenizer, AutoModelForSeq2SeqLM, pipeline
+import soundfile as sf
 from gtts import gTTS
 import torch
 import tempfile
